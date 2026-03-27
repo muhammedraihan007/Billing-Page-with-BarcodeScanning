@@ -1,3 +1,47 @@
+# 🧾 Billing Page with Barcode Scanning
+
+A smart billing system that allows real-time product billing using barcode scanning. Designed for efficient retail operations with batch selection and stock validation.
+
+---
+
+## 🚀 Features
+
+- 📦 Barcode-based product scanning
+- 🧮 Automatic product addition to cart
+- 📊 Batch selection (different prices for same product)
+- ✅ Stock availability check
+- ⚡ Fast and responsive billing UI
+- 💾 Database integration for product management
+
+---
+
+## 🛠️ Tech Stack
+
+- Backend: PHP (CodeIgniter 3)
+- Frontend: HTML, CSS, JavaScript
+- Database: MySQL
+- Tools: Git, VS Code
+
+---
+
+## 📸 Workflow
+
+1. Scan barcode  
+2. System checks product availability  
+3. If multiple batches → popup to select  
+4. Product added to cart  
+5. Billing calculated automatically  
+
+---
+
+## 📂 Project Setup
+
+1. Clone the repository:
+```bash
+git clone https://github.com/muhammedraihan007/Billing-Page-with-BarcodeScanning.git
+
+
+
 ###################
 What is CodeIgniter
 ###################
